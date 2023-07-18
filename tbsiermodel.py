@@ -23,8 +23,8 @@ S[0] = 1 - I0
 I[0] = I0
 
 # Vaccination parameters
-#vaccination_start_month = 1  # Month when vaccination starts
-#vaccination_rate = 0.02  # Adjust the vaccination rate
+vaccination_start_month = 1  # Month when vaccination starts
+vaccination_rate = 0.02  # Adjust the vaccination rate
 #
 #The variable vaccination_start_month represents the month when the vaccination campaign starts.
 #After this month, the susceptible population (dS) is reduced by a rate of vaccination_rate * S[t].
